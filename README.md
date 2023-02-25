@@ -1,8 +1,9 @@
 # Text-Mining
 
-Text Mining is the process of converting unstructured text to a structured format for analysis. The software uses Natural Language Processing, which allows the computer to understand languages as it is written or spoken. The analysis identifies concepts, pattterns, and keywords.
+Text mining is a technique used in machine learning to extract useful information from text data. It involves analyzing large amounts of text data, such as emails, social media posts, and documents, to identify patterns, relationships, and trends.
 
+Text mining can be used for a variety of purposes, such as sentiment analysis, topic modeling, and text classification. For example, sentiment analysis involves determining whether a piece of text expresses a positive or negative sentiment, while topic modeling involves identifying the main topics or themes present in a collection of documents.
 
-Text mining has many different applications in the real world, as many of the communications is done using text. This allows businesses and other coorperations to find the patterns in the emails. messages, and in social media platforms to allow them to improve their products to meet their customers' demands. We can see text-mining being applied in social media, where harmful comments are being banned before they are sent, in email services, where potential fraud mails are sent to the junk box, preventing scams fromt taking place, we also see it to identify customer opinions.
+Text mining typically involves several steps, including data collection, data pre-processing, feature extraction, and modeling. During data pre-processing, the text data is cleaned and transformed to make it suitable for analysis. Feature extraction involves identifying the most important characteristics of the text data, such as the frequency of certain words or phrases. Finally, modeling involves using machine learning algorithms to analyze the text data and extract useful insights.
 
-With the data, a word cloud can be created. The most repeating concepts and keywords are shown in bigger text otwards the centre, with less frequent words around the side.
+Overall, text mining is a powerful tool that can help organizations gain insights from large volumes of text data, such as customer feedback, social media posts, and market research reports.
